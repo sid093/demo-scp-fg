@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Something done by me
+=======
+Something done by someone else
+>>>>>>> origin/master
